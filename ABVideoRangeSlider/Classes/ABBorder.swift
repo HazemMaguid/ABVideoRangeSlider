@@ -32,5 +32,6 @@ class ABBorder: UIView {
         super.layoutSubviews()
         imageView.frame = self.bounds
     }
+    
 
 }
